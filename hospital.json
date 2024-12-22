@@ -1,0 +1,26 @@
+[
+  {
+    "id": 1,
+    "name": "City Hospital",
+    "patientCount": 120,
+    "location": "New York"
+  },
+  {
+    "id": 2,
+    "name": "Metro Health",
+    "patientCount": 85,
+    "location": "Los Angeles"
+  },
+  {
+    "id": 3,
+    "name": "City Hospital",
+    "patientCount": 120,
+    "location": "India"
+  },
+  {
+    "id": 4,
+    "name": "KIMS Hospital",
+    "patientCount": 900,
+    "location": "Kerala"
+  }
+]
